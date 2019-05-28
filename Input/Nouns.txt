@@ -1,0 +1,100 @@
+1	  color 																														
+2	  version 	  part 	  howev 	  hair 	  prefer 	  volum 	  hair 																								
+3	  dy 	  hair 	  fuller 	  scent 	  pleasant 	  version 	  improv 																								
+4	  product 	  year 	  choic 	  gettibg 	  hair 	  retain 	  luster 	  week 	  sinc 	  look 	  stay 	  product 	  see 	  result 																	
+5	  work 	  happi 	  others 																												
+6	  love 	  use 	  thank 																												
+7	  love 	  shampooconditioner 	  use 	  color 	  treat 	  hair 	  hair 	  greasi 	  feel 	  brand 	  product 	  anyon 	  color 	  hair 	  amaz 	  brand 	  panten 														
+8	  receiv 	  deliv 	  hair 	  shine 	  weightless 	  fragrance 	  amaz 	  water 	  color 	  formula 	  shine 	  love 																			
+9	  condition 	  sampl 	  condition 	  product 	  togeth 	  week 	  hair 	  feel 	  shiny 																						
+10	  favorit 	  color 	  hair 	  hair 	  panten 	  color 	  day 	  volume 	  reason 	  price 	  happi 	  girl 																			
+11	  product 	  product 	  product 	  smell 	  wonderful 	  help 	  color 	  hair 	  heavi 	  buildup 	  hair 	  volume 																			
+12	  friend 	  exactli 	  color 	  hair 	  definit 	  recommend 																									
+13	  decid 	  condition 	  work 	  hydrat 	  help 	  hair 	  month 																								
+14	  way 	  tri 	  color 	  preserv 	  color 	  color 	  longer 	  silki 	  shampoo 																						
+15	  absolutli 	  color 	  volum 	  use 	  color 	  preserv 	  volum 	  shampoo 																							
+16	  product 	  weightless 	  didnt 	  understand 	  lk 																										
+17	  product 	  help 	  hair 	  volum 	  color 	  look 	  el 	  ha 																							
+18	  color 	  creat 	  bodi 	  hair 	  head 																										
+19	  hair 	  preserv 	  help 	  hair 	  color 	  longer 																									
+20	  iv 	  shampoo 	  wash 	  mayb 	  day 	  result 	  smell 																								
+21	  use 	  use 	  volum 	  product 	  year 	  remov 	  condition 	  chang 	  shampoo 	  condition 	  nothing 	  love 	  product 	  compar 	  qualiti 	  use 	  product 	  bring 	  babi 	  hair 	  market 	  caus 	  hair 	  dri 	  power 	  feminin 	  scent 	  realli 	  stop 	  mess 	  thing 
+22	  tri 	  aussom 	  volum 	  year 	  use 	  volume 	  know 	  NNP 	  formula 	  month 	  scalp 	  problem 	  hair 	  fall 	  bottl 	  smell 	  realli 	  alway 	  hair 	  realli 	  thicker 	  hardli 	  plea 								
+23	  hair 	  result 	  opposit 	  effect 	  hair 	  becam 	  limp 	  greasi 	  mention 	  product 	  aussie 																				
+24	  chang 	  scalp 	  volume 																												
+25	  scent 	  smell 	  bottl 	  ginger 	  jojoba 	  cherri 	  something 	  world 	  chang 	  formula 	  iv 	  year 	  smell 	  scent 	  rude 																
+26	  receiv 	  burn 	  eye 	  hair 	  avoid 	  condition 	  realli 	  pay 																							
+27	  use 	  sampl 	  influenster 	  smell 	  fruiti 	  slip 	  hair 	  hair 	  love 	  smell 																					
+28	  product 	  fragrance 	  contain 	  pure 	  tortur 	  use 	  bare 	  bottle 																							
+29	  shampoo 	  test 	  opinion 	  fall 	  shampoo 	  hair 	  felt 	  need 	  lot 	  condition 	  dryness 	  shampoo 	  drugstore 	  hate 																	
+30	  feel 	  smell 	  job 	  hair 	  iv 	  use 	  product 	  week 	  differ 	  volum 	  hair 	  coars 	  hold 	  volum 	  coars 	  hair 	  condition 	  spray 	  difference 	  product 											
+31	  disappoint 	  volum 	  use 	  point 	  right 	  course 	  shampoo 	  differ 	  volume 	  hair 	  reciev 	  test 	  purpos 	  opinion 																	
+32	  use 	  shampoo 	  volume 	  fact 	  hair 	  lile 	  product 	  hold 	  test 	  opinion 																					
+33	  smooth 	  fragrance 	  contain 	  pure 	  tortur 	  use 	  bare 	  bottle 																							
+34	  hair 	  silki 	  finish 	  product 	  review 	  opinion 																									
+35	  item 	  hair 	  smell 	  littl 	  alittl 	  dislike 	  howev 	  smell 	  shampoo 	  product 	  tri 	  review 	  influencer 	  opinion 	  product 																
+36	  shampoo 	  opinion 	  use 	  product 	  shampoo 	  lather 	  realli 	  citrusi 	  condition 	  greasi 	  week 	  daili 	  use 	  hair 																	
+37	  product 	  leav 	  hair 	  lightweight 	  differ 	  volum 	  hair 	  product 	  product 	  repurchase 	  i 	  product 	  review 																		
+38	  reaction 	  pretti 	  realli 	  right 	  product 	  use 	  yours 	  provid 	  littl 	  volum 	  advertising 	  test 	  product 	  opinion 																	
+39	  product 	  scent 	  way 	  hair 	  differ 	  volum 	  shampoo 	  product 	  opinion 																						
+40	  shampoo 	  hair 	  dri 	  top 	  hair 																										
+41	  shampoo 	  extrem 	  hair 	  use 	  le 	  hair 	  shampoo 	  product 	  smell 	  day 	  opinion 																				
+42	  product 	  especi 	  smell 	  staright 	  hair 	  anyth 	  promis 	  volum 	  product 	  purchas 																					
+43	  shampoo 	  rest 	  influenst 	  opinion 	  shampoo 	  valu 	  smell 	  hair 	  lot 	  work 																					
+44	  im 	  realli 	  job 	  hair 	  heavi 	  lot 	  foam 	  lot 	  volume 	  packaging 	  shampoo 	  receiv 	  review 	  opinion 																	
+45	  boyfriend 	  fan 	  fragranc 	  overpow 	  thick 	  quality 	  littl 	  way 	  way 	  factor 	  ad 	  volume 	  addit 	  coupl 	  wash 	  conditioner 	  shampoo 	  strip 	  lot 	  oil 	  need 	  receiv 	  product 	  review 	  complet 						
+46	  love 	  use 	  shampoo 	  hair 	  realli 	  realli 	  hair 	  sit 	  head 	  shampoo 	  smell 	  volum 	  day 	  routinecondit 	  con 	  togeth 	  brush 	  test 	  aussi 	  product 											
+47	  aussi 	  smell 	  realli 	  enjoy 	  product 	  hair 	  color 	  quickli 	  id 	  color 	  friendli 	  option 	  volume 	  differ 	  shampoo 	  shampoo 	  iv 	  product 	  work 	  product 	  exchang 	  opinion 									
+48	  shampoo 	  aussom 	  shampoo 	  use 	  week 	  hair 	  point 	  singl 	  tanglethi 	  hair 	  clean 	  shiny 	  deal 	  recommend 	  use 	  aussom 	  conditioner 	  product 	  review 	  test 											
+49	  realli 	  smooth 	  volume 	  smell 	  bit 	  goe 	  way 	  lead 	  downside 	  contain 	  sulfate 	  tri 	  contain 	  thing 	  con 	  bit 	  lid 	  shower 	  bit 	  disclaimer 	  aussi 	  opinion 									
+50	  shampoo 	  shampoo 	  ad 	  littl 	  bit 	  volum 	  hair 	  problem 	  shampoo 	  disclaimer 	  receiv 	  product 	  aussi 	  voxbox 	  opinion 																
+51	  product 	  hair 	  foam 	  littl 	  goe 	  way 	  hair 	  right 	  use 	  compar 	  thing 	  precept 	  volum 	  look 	  use 	  product 	  tri 	  product 	  opinion 												
+52	  enjoy 	  add 	  volum 	  hair 																											
+53	  fragranc 																														
+54	  husband 	  smell 	  ingredi 	  thank 																											
+55	  shampoo 	  year 	  daughter 	  use 	  condition 	  complaint 	  feel 	  test 	  aussi 	  opinion 																					
+56	  realli 	  limp 	  hair 	  realli 	  help 	  volum 	  thank 	  aussie 																							
+57	  remov 	  shampoo 	  work 	  hair 	  moistur 																										
+58	  star 	  buildup 	  think 	  clarifi 	  shampoo 	  hair 	  meaner 	  style 	  product 	  kangaroo 	  use 	  shampoo 	  endors 	  cheer 																	
+59	  shampoo 	  bottl 	  design 	  bottle 	  cap 	  ask 	  friend 	  famili 	  product 	  cap 	  especi 	  nail 	  super 	  product 	  shame 	  product 	  wonder 	  smell 	  work 	  oomph 	  hair 	  wonder 	  lightli 	  price 	  product 	  end 	  simpli 	  pri 	  cap 	  empti 	  bottl 
+60	  product 	  leav 	  hair 	  lightweight 	  differ 	  volum 	  hair 	  product 	  product 	  repurchase 	  i 	  product 	  review 																		
+61	  fan 	  volum 	  condition 	  hairspray 	  week 	  compliment 	  shine 	  volum 	  hair 	  sinc 	  use 	  product 	  price 	  use 	  volum 	  shine 	  look 	  definit 	  product 	  future 	  test 	  opinion 									
+62	  wife 	  shampoo 	  scent 	  leav 	  hair 	  pair 	  condition 	  hair 	  highli 	  product 	  test 	  aussi 	  opinion 																		
+63	  product 	  use 	  year 	  type 	  claim 	  shine 	  fullness 																								
+64	  love 	  review 	  state 	  opinion 	  shampoo 	  dri 	  hair 	  knotti 	  shampoo 	  shower 	  hair 	  feel 	  littl 	  volume 																	
+65	  use 	  smell 	  dri 	  love 	  hair 	  feel 	  hair 	  bit 	  use 	  shampoo 	  receiv 	  product 	  influenst 	  voxbox 	  test 	  opinion 	  complet 														
+66	  feel 	  day 	  smell 	  shampoo 	  foam 	  use 	  aussom 	  volum 	  condition 	  volum 	  hair 	  comment 	  bodi 	  test 	  opinion 																
+67	  love 	  shampoo 	  hair 	  use 	  combin 	  awesom 	  volum 	  condition 	  hair 	  amount 	  bodi 	  shine 	  receiv 	  product 	  opinion 																
+68	  plea 	  smell 	  shampoo 	  hair 	  feel 	  product 	  volum 	  tell 	  difference 	  receiv 	  product 	  influenst 	  voxbox 	  test 	  opinion 	  complet 															
+69	  love 	  product 	  pair 	  volum 	  conditioner 	  hair 	  definit 	  help 	  volum 	  hair 	  tri 	  opinion 																			
+70	  fan 	  bouncy 	  volum 	  hair 	  shampoo 	  leav 	  hair 	  definit 																							
+71	  mom 	  shampoo 	  scent 	  leav 	  hair 	  pair 	  condition 	  hair 	  highli 	  product 	  test 	  aussi 	  opinion 																		
+72	  start 	  tini 	  toddler 	  wash 	  hair 	  twice 	  week 	  shampoo 	  point 	  hair 	  tri 	  aussi 	  volum 	  shampoo 	  smell 	  hair 	  bottl 	  im 	  okay 	  pour 	  iv 	  hair 	  oomph 	  mom 	  bun 	  product 	  opinion 	  brand 	  replac 	  go 	
+73	  shampoo 	  reciev 	  aussi 	  volum 	  review 	  feedback 	  realli 	  smell 	  shampoo 	  fan 	  product 	  reason 	  result 	  volum 	  shampoo 	  work 	  hair 	  lifeless 	  hair 	  brand 	  volum 	  need 	  look 	  volum 	  hair 	  day 					
+74	  receiv 	  yesterday 	  time 	  love 	  hair 	  fuller 	  volum 	  happi 	  hair 	  coarse 	  thank 	  product 																			
+75	  receiv 	  aussi 	  voluminizimg 	  shampoo 	  influenst 	  week 	  use 	  week 	  leav 	  hair 	  soft 	  volume 	  iv 	  tri 	  shampoo 	  claim 	  hair 	  volumin 	  girl 	  manag 	  ad 	  curl 	  day 	  aussi 							
+76	  hair 	  product 	  influenst 	  tri 	  hair 	  manag 	  volum 	  use 	  brand 	  definit 	  aussi 																				
+77	  use 	  im 	  pretti 	  product 	  work 	  volume 	  iv 	  product 	  im 	  line 	  product 	  test 	  product 	  influenst 	  definit 																
+78	  work 	  lot 	  shampoo 	  kind 	  need 	  lot 	  work 	  easi 	  smell 	  rins 	  volum 	  conditioner 	  hair 	  volum 	  recommend 	  friend 	  famili 	  opinion 													
+79	  shampoo 	  hair 	  volum 	  volum 	  shampoo 	  iv 																									
+80	  hair 	  use 	  husband 	  shampoo 	  hair 	  condition 	  hair 	  look 																							
+81	  previou 	  smell 	  nice 																												
+82	  favorit 	  shampoo 	  product 	  greasy 																											
+83	  product 	  shampoo 	  hair 	  shampoo 	  perfect 	  price 	  awesome 	  use 	  day 	  stock 	  famili 	  use 																			
+84	  product 																														
+85	  wife 																														
+86	  product 	  recommend 	  perfect 																												
+87	  product 	  use 	  hair 	  awesom 																											
+88	  product 																														
+89	  product 	  tester 	  condit 	  hair 	  product 	  difference 	  hair 	  hair 	  smell 																						
+90	  love 	  realli 	  curli 	  hair 	  scalp 	  look 	  defin 	  time 	  friend 																						
+91	  shampoo 	  cant 	  hair 	  thru 	  water 	  continu 	  repurchase 	  hair 	  find 	  shampoo 																					
+92	  product 	  hair 	  feel 	  scent 	  bonu 	  ensur 	  aussi 	  opinion 																							
+93	  hair 	  aussi 	  use 	  day 	  love 	  smell 	  ne 	  dandruff 	  alergi 	  control 																					
+94	  enjoy 	  test 	  aussi 	  opinion 																											
+95	  shampoo 	  use 	  product 	  smell 	  light 	  weight 	  difference 	  shampoo 																							
+96	  product 	  shampoo 	  work 	  hair 	  volum 	  receiv 	  review 																								
+97	  feel 	  work 	  amsingli 	  product 	  everi 	  body 	  volume 																								
+98	  shampoo 	  hair 	  shampoo 																												
+99	  shampoo 	  product 	  test 	  purpos 	  opinion 																										
+100	  realli 	  product 	  test 	  purpos 	  opinion 																										
